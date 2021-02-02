@@ -18,6 +18,12 @@
     <div class="text-center mt-3">
       <button class="btn btn-outline-primary" @click="$emit('save-post')">Save Post</button>
     </div>
+    <br>
+     <div>
+       <button
+         class="btn btn-outline-success rounded-pill"
+         style="box-shadow: 1px 1px 5px 7px ">Iran man</button>
+     </div>
   </div>
 
 </template>
